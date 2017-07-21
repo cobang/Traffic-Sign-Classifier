@@ -64,7 +64,7 @@ My final model consisted of the following layers:
 
 To train the model, I used TensorFlow AdamOptimizer with learning rate 0.001, 20 Epoch , 128 batch size
 
-It is bacisly LenNet architecture. This model has..... I added two 1x1 convolution layers and dropouts.
+It is bacisly LenNet architecture. I added two 1x1 convolution layers and dropouts.
 
 My final model results were:
 * training set accuracy of %99.7
