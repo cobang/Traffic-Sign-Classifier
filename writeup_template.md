@@ -4,16 +4,16 @@
 
 [//]: # (Image References)
 
-[image1]: ./report/train-dist.jpg "distribution of training images"
-[image20]: ./report/color.jpg "Color"
-[image21]: ./report/gray.jpg "Gray"
+[image1]: ./report/train-dist.png "distribution of training images"
+[image20]: ./report/color.png "Color"
+[image21]: ./report/gray.png "Gray"
 [image4]: ./web/0.jpg "Traffic Sign 1"
-[image5]: ./web/1.png "Traffic Sign 2"
-[image6]: ./web/2.png "Traffic Sign 3"
-[image7]: ./web/3.png "Traffic Sign 4"
-[image8]: ./web/4.png "Traffic Sign 5"
-[image9]: ./web/5.png "Traffic Sign 6"
-[image10]: ./web/6.png "Traffic Sign 7"
+[image5]: ./web/1.jpg "Traffic Sign 2"
+[image6]: ./web/2.jpg "Traffic Sign 3"
+[image7]: ./web/3.jpg "Traffic Sign 4"
+[image8]: ./web/4.jpg "Traffic Sign 5"
+[image9]: ./web/5.jpg "Traffic Sign 6"
+[image10]: ./web/6.jpg "Traffic Sign 7"
 
 ---
 
